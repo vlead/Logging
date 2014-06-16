@@ -1,0 +1,207 @@
+
+--- 14:30:28.4540652014-06-16 02:30:31 PM -  DEBUG    |logging_test_client.py:17 | Module       -> 14:30:31.296255 380
+2014-06-16 02:30:35 PM -  DEBUG    |logging_test_client.py:17 | Module       -> 14:30:35.306043 462
+2014-06-16 02:30:35 PM -  DEBUG    |logging_test_client.py:17 | Module       -> 14:30:35.306043 462
+2014-06-16 02:31:05 PM -  DEBUG    |logging_test_client.py:17 | Module       -> 14:31:05.225852 663
+2014-06-16 02:31:05 PM -  DEBUG    |logging_test_client.py:17 | Module       -> 14:31:05.225852 663
+2014-06-16 02:31:05 PM -  DEBUG    |logging_test_client.py:17 | Module       -> 14:31:05.225852 663
+2014-06-16 02:31:51 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:31:51.723059 322
+2014-06-16 02:31:51 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:31:51.723059 322
+2014-06-16 02:31:51 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:31:51.723059 322
+2014-06-16 02:31:51 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:31:51.723059 322
+2014-06-16 02:31:53 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:31:53.977225 848
+2014-06-16 02:31:53 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:31:53.977225 848
+2014-06-16 02:31:53 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:31:53.977225 848
+2014-06-16 02:31:53 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:31:53.977225 848
+2014-06-16 02:31:53 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:31:53.977225 848
+2014-06-16 02:32:16 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:32:16.423605 878
+2014-06-16 02:32:16 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:32:16.423605 878
+2014-06-16 02:32:16 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:32:16.423605 878
+2014-06-16 02:32:16 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:32:16.423605 878
+2014-06-16 02:32:16 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:32:16.423605 878
+2014-06-16 02:32:16 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:32:16.423605 878
+2014-06-16 02:32:23 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:32:23.582018 74
+2014-06-16 02:32:23 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:32:23.582018 74
+2014-06-16 02:32:23 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:32:23.582018 74
+2014-06-16 02:32:23 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:32:23.582018 74
+2014-06-16 02:32:23 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:32:23.582018 74
+2014-06-16 02:32:23 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:32:23.582018 74
+2014-06-16 02:32:23 PM -  ERROR    |logging_test_client.py:17 | Module       -> 14:32:23.582018 74
+2014-06-16 02:32:37 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:32:37.849884 849
+2014-06-16 02:32:37 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:32:37.849884 849
+2014-06-16 02:32:37 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:32:37.849884 849
+2014-06-16 02:32:37 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:32:37.849884 849
+2014-06-16 02:32:37 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:32:37.849884 849
+2014-06-16 02:32:37 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:32:37.849884 849
+2014-06-16 02:32:37 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:32:37.849884 849
+2014-06-16 02:32:37 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:32:37.849884 849
+2014-06-16 02:33:24 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:24.135342 837
+2014-06-16 02:33:24 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:24.135342 837
+2014-06-16 02:33:24 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:24.135342 837
+2014-06-16 02:33:24 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:24.135342 837
+2014-06-16 02:33:24 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:24.135342 837
+2014-06-16 02:33:24 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:24.135342 837
+2014-06-16 02:33:24 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:24.135342 837
+2014-06-16 02:33:24 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:24.135342 837
+2014-06-16 02:33:24 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:24.135342 837
+2014-06-16 02:33:26 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:26.261623 994
+2014-06-16 02:33:26 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:26.261623 994
+2014-06-16 02:33:26 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:26.261623 994
+2014-06-16 02:33:26 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:26.261623 994
+2014-06-16 02:33:26 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:26.261623 994
+2014-06-16 02:33:26 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:26.261623 994
+2014-06-16 02:33:26 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:26.261623 994
+2014-06-16 02:33:26 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:26.261623 994
+2014-06-16 02:33:26 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:26.261623 994
+2014-06-16 02:33:26 PM -  WARNING  |logging_test_client.py:17 | Module       -> 14:33:26.261623 994
+
+--- 14:33:32.4187082014-06-16 02:33:33 PM -  WARNING  |logging_test_client.py:17 |-12s Module 	-> 14:33:33.617471 586
+2014-06-16 02:33:36 PM -  WARNING  |logging_test_client.py:17 |-12s Module 	-> 14:33:36.266724 407
+2014-06-16 02:33:36 PM -  WARNING  |logging_test_client.py:17 |-12s Module 	-> 14:33:36.266724 407
+
+--- 14:35:27.104471
+--- 14:36:07.5155282014-06-16 02:36:08 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:36:08.712615 430
+2014-06-16 02:36:10 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:36:10.700112 57
+2014-06-16 02:36:10 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:36:10.700112 57
+
+
+--- 14:37:03.942990---
+
+2014-06-16 02:37:05 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:37:05.342672 545
+2014-06-16 02:37:08 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:37:08.523781 814
+2014-06-16 02:37:08 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:37:08.523781 814
+
+
+--- January 01, 1900---
+
+2014-06-16 02:37:56 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:37:56.648575 607
+2014-06-16 02:37:58 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:37:58.407214 317
+2014-06-16 02:37:58 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:37:58.407214 317
+
+
+--- June 16, 2014---
+
+2014-06-16 02:38:30 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:38:30.896573 526
+2014-06-16 02:38:33 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:38:33.293840 691
+2014-06-16 02:38:33 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:38:33.293840 691
+
+
+--- June 16, 2014 14:42:24 ---
+
+2014-06-16 02:42:26 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:26.050860 701
+2014-06-16 02:42:39 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:39.940165 309
+2014-06-16 02:42:39 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:39.940165 309
+2014-06-16 02:42:41 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:41.015109 728
+2014-06-16 02:42:41 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:41.015109 728
+2014-06-16 02:42:41 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:41.015109 728
+2014-06-16 02:42:41 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:41.503797 372
+2014-06-16 02:42:41 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:41.503797 372
+2014-06-16 02:42:41 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:41.503797 372
+2014-06-16 02:42:41 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:41.503797 372
+2014-06-16 02:42:41 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:41.976284 909
+2014-06-16 02:42:41 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:41.976284 909
+2014-06-16 02:42:41 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:41.976284 909
+2014-06-16 02:42:41 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:41.976284 909
+2014-06-16 02:42:41 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:41.976284 909
+2014-06-16 02:42:42 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:42.466711 927
+2014-06-16 02:42:42 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:42.466711 927
+2014-06-16 02:42:42 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:42.466711 927
+2014-06-16 02:42:42 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:42.466711 927
+2014-06-16 02:42:42 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:42.466711 927
+2014-06-16 02:42:42 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:42.466711 927
+2014-06-16 02:42:42 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:42.931611 369
+2014-06-16 02:42:42 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:42.931611 369
+2014-06-16 02:42:42 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:42.931611 369
+2014-06-16 02:42:42 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:42.931611 369
+2014-06-16 02:42:42 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:42.931611 369
+2014-06-16 02:42:42 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:42.931611 369
+2014-06-16 02:42:42 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:42.931611 369
+2014-06-16 02:42:43 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:43.358385 649
+2014-06-16 02:42:43 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:43.358385 649
+2014-06-16 02:42:43 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:43.358385 649
+2014-06-16 02:42:43 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:43.358385 649
+2014-06-16 02:42:43 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:43.358385 649
+2014-06-16 02:42:43 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:43.358385 649
+2014-06-16 02:42:43 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:43.358385 649
+2014-06-16 02:42:43 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:43.358385 649
+2014-06-16 02:42:43 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:43.864782 88
+2014-06-16 02:42:43 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:43.864782 88
+2014-06-16 02:42:43 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:43.864782 88
+2014-06-16 02:42:43 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:43.864782 88
+2014-06-16 02:42:43 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:43.864782 88
+2014-06-16 02:42:43 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:43.864782 88
+2014-06-16 02:42:43 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:43.864782 88
+2014-06-16 02:42:43 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:43.864782 88
+2014-06-16 02:42:43 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:42:43.864782 88
+
+
+--- June 16, 2014 14:49:21 ---
+
+2014-06-16 02:49:23 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:23.557405 386
+2014-06-16 02:49:26 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:26.137269 96
+2014-06-16 02:49:26 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:26.137269 96
+2014-06-16 02:49:26 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:26.527183 461
+2014-06-16 02:49:26 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:26.527183 461
+2014-06-16 02:49:26 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:26.527183 461
+2014-06-16 02:49:26 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:26.878915 421
+2014-06-16 02:49:26 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:26.878915 421
+2014-06-16 02:49:26 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:26.878915 421
+2014-06-16 02:49:26 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:26.878915 421
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.214264 8
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.214264 8
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.214264 8
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.214264 8
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.214264 8
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.543332 303
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.543332 303
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.543332 303
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.543332 303
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.543332 303
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.543332 303
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.888069 275
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.888069 275
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.888069 275
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.888069 275
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.888069 275
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.888069 275
+2014-06-16 02:49:27 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:27.888069 275
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.221204 660
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.221204 660
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.221204 660
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.221204 660
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.221204 660
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.221204 660
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.221204 660
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.221204 660
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.573394 894
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.573394 894
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.573394 894
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.573394 894
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.573394 894
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.573394 894
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.573394 894
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.573394 894
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.573394 894
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.940369 534
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.940369 534
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.940369 534
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.940369 534
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.940369 534
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.940369 534
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.940369 534
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.940369 534
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.940369 534
+2014-06-16 02:49:28 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:49:28.940369 534
+
+
+--- June 16, 2014 14:50:48 ---
+
+
+
+--- June 16, 2014 14:53:36 ---
+
+2014-06-16 02:53:40 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:53:40.417045 972
+2014-06-16 02:53:42 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:53:42.201045 970
+2014-06-16 02:53:44 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:53:44.280859 25
+2014-06-16 02:53:48 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:53:48.652614 811
+2014-06-16 02:53:50 PM -  WARNING  |logging_test_client.py:17          |Module 	-> 14:53:50.445409 508
